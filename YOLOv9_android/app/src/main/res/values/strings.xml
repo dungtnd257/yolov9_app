@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nhận diện bệnh lúa</string>
+    <string name="gpu">GPU</string>
+</resources>
